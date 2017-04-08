@@ -1,0 +1,5 @@
+c:\users\kuanh_000\documents\visual studio 2015\Projects\HTTPget获取海康威视图像\HTTPget获取海康威视图像\bin\Debug\HTTPget获取海康威视图像.exe.config
+c:\users\kuanh_000\documents\visual studio 2015\Projects\HTTPget获取海康威视图像\HTTPget获取海康威视图像\bin\Debug\HTTPget获取海康威视图像.exe
+c:\users\kuanh_000\documents\visual studio 2015\Projects\HTTPget获取海康威视图像\HTTPget获取海康威视图像\bin\Debug\HTTPget获取海康威视图像.pdb
+c:\users\kuanh_000\documents\visual studio 2015\Projects\HTTPget获取海康威视图像\HTTPget获取海康威视图像\obj\Debug\HTTPget获取海康威视图像.exe
+c:\users\kuanh_000\documents\visual studio 2015\Projects\HTTPget获取海康威视图像\HTTPget获取海康威视图像\obj\Debug\HTTPget获取海康威视图像.pdb

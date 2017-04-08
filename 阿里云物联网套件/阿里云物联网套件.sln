@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "阿里云物联网套件", "阿里云物联网套件\阿里云物联网套件.csproj", "{F50D55EF-4CA5-404D-AFF6-9CAC92D588CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aliyun-net-sdk-core", "..\..\..\..\Downloads\aliyun-openapi-net-sdk-master\aliyun-openapi-net-sdk-master\aliyun-net-sdk-core\aliyun-net-sdk-core.csproj", "{BB84CECB-295D-4772-A669-3726E511CCFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aliyun-net-sdk-iot", "..\..\..\..\Downloads\aliyun-openapi-net-sdk-master\aliyun-openapi-net-sdk-master\aliyun-net-sdk-iot\aliyun-net-sdk-iot.csproj", "{C98AEE1F-15EF-462E-972E-8D18A709F927}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F50D55EF-4CA5-404D-AFF6-9CAC92D588CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F50D55EF-4CA5-404D-AFF6-9CAC92D588CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F50D55EF-4CA5-404D-AFF6-9CAC92D588CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F50D55EF-4CA5-404D-AFF6-9CAC92D588CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB84CECB-295D-4772-A669-3726E511CCFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB84CECB-295D-4772-A669-3726E511CCFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB84CECB-295D-4772-A669-3726E511CCFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB84CECB-295D-4772-A669-3726E511CCFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C98AEE1F-15EF-462E-972E-8D18A709F927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C98AEE1F-15EF-462E-972E-8D18A709F927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C98AEE1F-15EF-462E-972E-8D18A709F927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C98AEE1F-15EF-462E-972E-8D18A709F927}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

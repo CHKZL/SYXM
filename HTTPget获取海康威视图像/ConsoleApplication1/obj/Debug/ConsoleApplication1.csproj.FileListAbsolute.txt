@@ -1,0 +1,1 @@
+C:\Users\kuanh_000\Documents\Visual Studio 2015\Projects\HTTPget获取海康威视图像\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config

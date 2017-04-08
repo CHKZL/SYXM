@@ -1,0 +1,14 @@
+c:\users\kuanh_000\documents\visual studio 2015\Projects\阿里云物联网套件\阿里云物联网套件\bin\Debug\阿里云物联网套件.exe.config
+c:\users\kuanh_000\documents\visual studio 2015\Projects\阿里云物联网套件\阿里云物联网套件\bin\Debug\阿里云物联网套件.exe
+c:\users\kuanh_000\documents\visual studio 2015\Projects\阿里云物联网套件\阿里云物联网套件\bin\Debug\阿里云物联网套件.pdb
+c:\users\kuanh_000\documents\visual studio 2015\Projects\阿里云物联网套件\阿里云物联网套件\obj\Debug\阿里云物联网套件.csprojResolveAssemblyReference.cache
+c:\users\kuanh_000\documents\visual studio 2015\Projects\阿里云物联网套件\阿里云物联网套件\obj\Debug\阿里云物联网套件.Form1.resources
+c:\users\kuanh_000\documents\visual studio 2015\Projects\阿里云物联网套件\阿里云物联网套件\obj\Debug\阿里云物联网套件.Properties.Resources.resources
+c:\users\kuanh_000\documents\visual studio 2015\Projects\阿里云物联网套件\阿里云物联网套件\obj\Debug\阿里云物联网套件.csproj.GenerateResource.Cache
+c:\users\kuanh_000\documents\visual studio 2015\Projects\阿里云物联网套件\阿里云物联网套件\obj\Debug\阿里云物联网套件.exe
+c:\users\kuanh_000\documents\visual studio 2015\Projects\阿里云物联网套件\阿里云物联网套件\obj\Debug\阿里云物联网套件.pdb
+C:\Users\kuanh_000\Documents\Visual Studio 2015\Projects\阿里云物联网套件\阿里云物联网套件\bin\Debug\Regions\endpoints.xml
+C:\Users\kuanh_000\Documents\Visual Studio 2015\Projects\阿里云物联网套件\阿里云物联网套件\bin\Debug\aliyun-net-sdk-core.dll
+C:\Users\kuanh_000\Documents\Visual Studio 2015\Projects\阿里云物联网套件\阿里云物联网套件\bin\Debug\aliyun-net-sdk-iot.dll
+C:\Users\kuanh_000\Documents\Visual Studio 2015\Projects\阿里云物联网套件\阿里云物联网套件\bin\Debug\aliyun-net-sdk-core.pdb
+C:\Users\kuanh_000\Documents\Visual Studio 2015\Projects\阿里云物联网套件\阿里云物联网套件\bin\Debug\aliyun-net-sdk-iot.pdb

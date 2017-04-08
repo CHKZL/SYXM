@@ -1,0 +1,12 @@
+c:\users\kuanh_000\documents\visual studio 2015\Projects\检波器项目01\检波器项目01\bin\Debug\检波器项目01.exe.config
+c:\users\kuanh_000\documents\visual studio 2015\Projects\检波器项目01\检波器项目01\bin\Debug\检波器项目01.exe
+c:\users\kuanh_000\documents\visual studio 2015\Projects\检波器项目01\检波器项目01\bin\Debug\检波器项目01.pdb
+c:\users\kuanh_000\documents\visual studio 2015\Projects\检波器项目01\检波器项目01\obj\Debug\检波器项目01.Properties.Resources.resources
+c:\users\kuanh_000\documents\visual studio 2015\Projects\检波器项目01\检波器项目01\obj\Debug\检波器项目01.csproj.GenerateResource.Cache
+c:\users\kuanh_000\documents\visual studio 2015\Projects\检波器项目01\检波器项目01\obj\Debug\检波器项目01.exe
+c:\users\kuanh_000\documents\visual studio 2015\Projects\检波器项目01\检波器项目01\obj\Debug\检波器项目01.pdb
+C:\Users\kuanh_000\Documents\Visual Studio 2015\Projects\检波器项目01\检波器项目01\obj\Debug\检波器项目01.TX.resources
+C:\Users\kuanh_000\Documents\Visual Studio 2015\Projects\检波器项目01\检波器项目01\obj\Debug\检波器项目01.STX.resources
+C:\Users\kuanh_000\Documents\Visual Studio 2015\Projects\检波器项目01\检波器项目01\obj\Debug\检波器项目01.CJ.resources
+C:\Users\kuanh_000\Documents\Visual Studio 2015\Projects\检波器项目01\检波器项目01\obj\Debug\检波器项目01.F1.resources
+C:\Users\kuanh_000\Documents\Visual Studio 2015\Projects\检波器项目01\检波器项目01\obj\Debug\检波器项目01.csprojResolveAssemblyReference.cache
